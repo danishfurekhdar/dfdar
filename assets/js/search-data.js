@@ -7,56 +7,56 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/";
     },
   },{id: "nav-projects",
           title: "Projects",
           description: "A collection of boring projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/projects/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Boring repos",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/repositories/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "Listed in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/publications/";
           },
         },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/news/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "A short CV. You can press the button on the right to view a full one.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/cv/";
           },
         },{id: "dropdown-teaching",
               title: "Teaching",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/teaching/";
+                window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/teaching/";
               },
             },{id: "dropdown-people",
               title: "People",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/people/";
               },
             },{id: "post-postgraduate-studies-at-sih",
         
@@ -66,7 +66,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/postgraduate/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/blog/2025/postgraduate/";
           
         },
       },{id: "post-diet",
@@ -77,7 +77,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/diet/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/blog/2024/diet/";
           
         },
       },{id: "post-about-this-webpage",
@@ -88,7 +88,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/first-post/";
+            window.location.href = "/dfdar#%20the%20subpath%20of%20your%20site,%20e.g.%20/blog/.%20Leave%20blank%20for%20root/blog/2023/first-post/";
           
         },
       },{id: "news-recently-i-purchased-a-new-mac-mini-equipped-with-the-m2-pro-chip-for-daily-work-needs-because-my-old-macbook-pro-intel-2018-is-broken-due-to-overheat",
