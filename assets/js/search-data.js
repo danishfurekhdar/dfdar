@@ -7,56 +7,56 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/dfdar/";
+      window.location.href = "/";
     },
   },{id: "nav-projects",
           title: "Projects",
           description: "A collection of boring projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/dfdar/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Boring repos",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/dfdar/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "Listed in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/dfdar/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/dfdar/news/";
+            window.location.href = "/news/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "A short CV. You can press the button on the right to view a full one.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/dfdar/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "dropdown-teaching",
               title: "Teaching",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/dfdar/teaching/";
+                window.location.href = "/teaching/";
               },
             },{id: "dropdown-people",
               title: "People",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/dfdar/people/";
+                window.location.href = "/people/";
               },
             },{id: "post-postgraduate-studies-at-sih",
         
@@ -66,7 +66,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/dfdar/blog/2025/postgraduate/";
+            window.location.href = "/blog/2025/postgraduate/";
           
         },
       },{id: "post-diet",
@@ -77,7 +77,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/dfdar/blog/2024/diet/";
+            window.location.href = "/blog/2024/diet/";
           
         },
       },{id: "post-about-this-webpage",
@@ -88,7 +88,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/dfdar/blog/2023/first-post/";
+            window.location.href = "/blog/2023/first-post/";
           
         },
       },{id: "news-recently-i-purchased-a-new-mac-mini-equipped-with-the-m2-pro-chip-for-daily-work-needs-because-my-old-macbook-pro-intel-2018-is-broken-due-to-overheat",
