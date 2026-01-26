@@ -44,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-teaching",
-              title: "Teaching",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/teaching/";
-              },
-            },{id: "dropdown-people",
-              title: "People",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/people/";
-              },
-            },{id: "post-postgraduate-studies-at-sih",
+        },{id: "post-postgraduate-studies-at-sih",
         
           title: "Postgraduate studies at SIH",
         
@@ -91,17 +77,11 @@ ninja.data = [{
             window.location.href = "/blog/2023/first-post/";
           
         },
-      },{id: "news-recently-i-purchased-a-new-mac-mini-equipped-with-the-m2-pro-chip-for-daily-work-needs-because-my-old-macbook-pro-intel-2018-is-broken-due-to-overheat",
-          title: 'Recently, I purchased a new Mac mini equipped with the M2 Pro chip...',
+      },{id: "news-i-am-thrilled-to-share-that-i-have-successfully-defended-my-phd-thesis-you-can-read-download-the-full-thesis-here-phd-thesis-pdf",
+          title: 'I am thrilled to share that I have successfully defended my PhD thesis!...',
           description: "",
-          section: "News",},{id: "news-i-am-delighted-to-share-that-the-manuscript-titled-transcription-factor-12-mediated-self-feedback-regulatory-mechanism-is-required-in-dux4-fusion-leukemia-has-been-accepted-by-the-esteemed-journal-clinical-and-translational-medicine-ctm-following-an-extensive-review-and-revision-process-spanning-nearly-two-years-i-would-like-to-express-my-sincere-gratitude-to-dr-zhihui-li-one-of-the-co-authors-for-her-invaluable-assistance-without-her-contributions-i-believe-it-would-not-have-been-possible-for-us-to-have-this-entire-story-accepted-by-ctm",
-          title: 'I am delighted to share that the manuscript titled Transcription factor 12 mediated...',
-          description: "",
-          section: "News",},{id: "news-i-forgot-to-mention-that-hongxin-has-published-a-preview-titled-finish-the-unfinished-chd1-resolving-hexasome-nucleosome-complex-with-fact-on-19-september",
-          title: 'I forgot to mention that Hongxin has published a preview titled Finish the...',
-          description: "",
-          section: "News",},{id: "news-molecular-mechanisms-of-unique-therapeutic-potential-of-cudc-907-for-mef2d-fusion-driven-bcp-all-has-been-published-in-signal-transduction-and-targeted-therapy",
-          title: 'Molecular mechanisms of unique therapeutic potential of CUDC-907 for MEF2D fusion-driven BCP-ALL has...',
+          section: "News",},{id: "news-i-have-secured-a-postdoctoral-research-position-at-shanghai-jiao-tong-university-following-the-successful-defense-of-my-phd-thesis",
+          title: 'I have secured a postdoctoral research position at Shanghai Jiao Tong University following...',
           description: "",
           section: "News",},{
         id: 'social-email',
